@@ -49,7 +49,7 @@ follow these steps:
 
 3. Commit the change(s) above, and push to github.com/w3c/w3process (not your personal fork). Example:
 
-    ```bash
+    ```bash 
     git add deploy.sh README.md
     git commit -m "Register topic branch for topic3"
     git push upstream main
